@@ -1,0 +1,22 @@
+/*
+Theme Name: Smite Black Team
+Theme URI: http://smite.black-team.org
+Description: Переделка темы для игрового сообщества
+Author: Aevernum
+Author URI: http://vk.com/maxtwax
+Template:
+Tags:
+Version: 1.0
+Free to use as is
+*/
+@import url(css/engine.css);
+@import url(css/styles.css);
+@import url(css/fonts.css);
+.speedbarmedia{
+width: 698px;
+    height: 30px;
+    background-color: #FFA306;
+    border: 1px solid #2C3A47;
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
